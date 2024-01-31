@@ -1,2 +1,3 @@
 ﻿  Pz18_5.cpp
+C:\Users\Necron\source\repos\Pz18_5\Pz18_5.cpp(46,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
   Pz18_5.vcxproj -> C:\Users\Necron\source\repos\Pz18_5\x64\Debug\Pz18_5.exe
